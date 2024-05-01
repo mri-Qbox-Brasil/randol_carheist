@@ -1,6 +1,6 @@
 return {
     Debug = false,
-    RequiredCops = 1,
+    RequiredCops = 0,
     PedModel = `U_M_Y_SmugMech_01`,
     PedCoords = vec4(4.95, -723.95, 31.17, 157.79),
     FuelScript = {
